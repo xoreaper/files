@@ -1,0 +1,4 @@
+Customer Name: Bibidh
+Pizza: Hawaiian
+Toppings: Mushrooms
+Total Bill: Rs580
