@@ -23,7 +23,7 @@ def select_toppings():
     print("1. Mushrooms")
     print("2. Onions")
     print("3. Bell Peppers")
-    print("4. Olives")
+    print("4. Bacon")
     print("5. Spinach")
 
     num_toppings = int(input("How many toppings do you want? "))
@@ -44,7 +44,7 @@ def get_topping_name(topping_choice):
         1: "Mushrooms",
         2: "Onions",
         3: "Bell Peppers",
-        4: "Olives",
+        4: "Bacon",
         5: "Spinach"
     }
     return toppings[topping_choice]
