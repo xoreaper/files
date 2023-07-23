@@ -1,9 +1,0 @@
-
-Customer Name: Kaddu
-Pizza: Margherita
-Toppings: Bacon
-Total Bill: Rs600
-Customer Name: bibidh]
-Pizza: Cheese
-Toppings: Mushrooms
-Total Bill: Rs499
