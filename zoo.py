@@ -1,3 +1,4 @@
+
 class Animal:
     def __init__(self, name, species, habitat):
         self.name = name
@@ -10,17 +11,17 @@ class Animal:
 
 class Mammal(Animal):
     def make_sound(self):
-        print("Mammal sound: Roar!")
+        print("Lion: Roar!")
 
 
 class Amphibian(Animal):
     def make_sound(self):
-        print("Amphibian sound: Croak!")
+        print("Frog: Croak!")
 
 
 class Reptile(Animal):
     def make_sound(self):
-        print("Reptile sound: Hiss!")
+        print("Snake: Hiss!")
 
 
 def animal_in_zoo_sound(animal_obj):
